@@ -1,0 +1,60 @@
+
+Q Case study
+ Online Ticket Booking System
+
+1)Functional requirements
+
+  1. Registration –
+
+     If a customer wants to book the ticket then he/she must be registered, 
+     an unregistered user can’t book the ticket. 
+
+  2. Login –
+
+     Customer logins to the system by entering valid user id and password for booking the ticket.
+
+  3. Search tickets – 
+
+     The system shall have a search function. Customer or
+      visitor can search movies based on movie name, date, time and venue
+
+  4. Seat Viewing – 
+
+    The customer shall be shown a 2D image of the seats from 
+    which the desired seats are selected.
+
+  5.Ticket canceling – 
+
+    The customer shall be given an option to cancel ticket
+     one hour before the movie with some fine.
+
+  6. Payment – 
+
+   For the customer there are many types of secure billing will be prepaid 
+   by debit or credit card. The security will provide by the third party like Pay-Pal etc.   
+
+  7. Logout –
+
+    After the payment or browse the movie, the customer will log out.
+
+  8. Generate ticket – 
+
+    After booking, the system can generate the portable document file (.pdf)
+    and then sent one copy to the customer’s Email-address and another one as an SMS to customer’s phone.
+
+  Customers can book airline tickets,buy tickets,train tickets
+
+2) Business entities and Business operation
+     Why customer should buy online tickets ?
+  i)Reason
+
+   Online Booking system includes functional features such as multiple seat configuration,baggage
+  options,booking reservation and cancellation polices, and dynamic  packaging features via internet
+
+  ii)Key Features of online booking system
+  Easy train or airline seata Booking.Instant Booking Confirmation:we have modified the software
+  to send personlizeds and notification to both customer and administrators upon each ticket booking,payment gateways
+
+      
+   
+
